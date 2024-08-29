@@ -3,7 +3,7 @@ This is a project done as apart of the County College of Morris' Data Structures
 
 The client file is in (FavioStation.java). 
 
-preview(TrainsUML.png)
+![Preview](TrainsUML.png)
 
 <h2> Description </h2>
 
