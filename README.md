@@ -3,6 +3,8 @@ This is a project done as apart of the County College of Morris' Data Structures
 
 The client file is in (FavioStation.java). 
 
+preview(TrainsUML.png)
+
 <h2> Description </h2>
 
 This project involves a program that simulates a train route. The route consists of several stations, starting at a specific station and ending at another. The program will account for the time required for a train to travel between consecutive stations along the route. Each station will have an associated queue of passengers, who are generated at random times, assigned randomly to entry stations, and given random destination stations.
