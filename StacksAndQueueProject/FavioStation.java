@@ -159,6 +159,8 @@ public class FavioStation {
 
 }
 /*
+Testing Output : 
+
 Created station 0 time to next is 13
 Created station 1 time to next is 10
 Created station 2 time to next is 9
