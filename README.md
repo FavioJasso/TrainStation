@@ -1,7 +1,7 @@
 # TrainStation
 This is a project done as apart of the County College of Morris' Data Structures and Algorithms CMP-233 course. The objective of this course is to show off the data structures of Stack and Queues in Java.
 
-The client file is in (FavioStation.java)  
+The client file is in (FavioStation.java). 
 
 <h2> Description </h2>
 
